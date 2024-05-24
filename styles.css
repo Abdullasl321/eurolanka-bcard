@@ -122,6 +122,9 @@ body{
 #dial {
     background-color: #28a745; /* Dial green */
 }
+#airbnb{
+    background-color: coral;
+}
 
 /* Hover effects */
 button:hover {
@@ -182,57 +185,58 @@ button:hover {
         width: 90%; /* Make buttons full width on small screens */
     }
 
-    .button{
-        width: 81.6%;
-        position: absolute;
-        left: 24.7px;
-    }
+
     
     .left, .right{
 margin-top: 50px;
     }
 
     #redirect {
-        top:640px;
-        margin-left: 20px;
+        margin-top: -127px;
+        height: 40px;
            }
     
     #googleReveiws {
-        margin-top: -160px;
+        margin-top: -140px;
         height: 40px;
     }
     
     #tripadvisorReveiws {
-        margin-top: -190px;
+        margin-top: -52px;
         height: 40px;
         
     }
     
     #whatsapp {
-        margin-top: -16px;
+        margin-top: -14px;
         height: 40px;
     }
     
     #email {
-        margin-top: -50px;
+        margin-top: 75px;
         height: 40px;
-        margin-bottom: 0px;
         
     }
     
     #fb {
-        margin-top: -154px;
+        margin-top: -141.3px;
         height: 40px;
         
     }
     
     #dial {
-        margin-top: -10px;
+        margin-top: -15px;
         height: 40px;
     }
-    .set{
-        margin-top: 260px;
-        margin-left: 20px;
+    #airbnb{
+        margin-top: -90px;
+        height: 40px;
     }
+
+
+   .cardbtn{
+    margin-top: 160px;
+    margin-left: 35px;
+   }
 
 }
